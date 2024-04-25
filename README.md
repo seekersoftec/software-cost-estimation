@@ -1,4 +1,4 @@
-# SOftware Cost Estimation
+# Software Cost Estimation
 
 https://gemini.google.com/app/2512571c3272199a
 
